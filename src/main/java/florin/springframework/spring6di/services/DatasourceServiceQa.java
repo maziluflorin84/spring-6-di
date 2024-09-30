@@ -1,6 +1,5 @@
-package florin.springframework.spring6di.services.datasource;
+package florin.springframework.spring6di.services;
 
-import florin.springframework.spring6di.services.DatasourceService;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 
